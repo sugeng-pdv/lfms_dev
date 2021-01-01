@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-10 07:22:14 --> Query error: Column 'institution_id' cannot be null - Invalid query: INSERT INTO `ref_psn_name` (`psn_sector_id`, `institution_id`, `name`, `kepdir_num`, `payment_type`, `fiscal_year`, `area`, `nominal`, `allocation_ttl`, `realization_ttl`, `remaining_fund`, `description`, `date_update`, `userid`) VALUES ('1', NULL, 'CIMANCI', 'kepdir/2020/LMAN', 'Langsung', '2021', '232323', '120000000', '3242423224', '1212122222', '12121212', 'CIMANCI', '2020-12-10', '4')
+ERROR - 2020-12-10 07:23:05 --> Query error: Column 'institution_id' cannot be null - Invalid query: INSERT INTO `ref_psn_name` (`psn_sector_id`, `institution_id`, `name`, `kepdir_num`, `payment_type`, `fiscal_year`, `area`, `nominal`, `allocation_ttl`, `realization_ttl`, `remaining_fund`, `description`, `date_update`, `userid`) VALUES ('1', NULL, 'CIMANCI', 'kepdir/2020/LMAN', 'Langsung', '2021', '232323', '120000000', '3242423224', '1212122222', '12121212', 'CIMANCI', '2020-12-10', '4')
+ERROR - 2020-12-10 08:01:13 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`lman_lf_development`.`ref_psn_name`, CONSTRAINT `ref_psn_name_ibfk_1` FOREIGN KEY (`psn_sector_id`) REFERENCES `ref_psn_sector` (`id`)) - Invalid query: INSERT INTO `ref_psn_name` (`institution_id`) VALUES (2)
+ERROR - 2020-12-10 08:02:07 --> Severity: Notice --> Array to string conversion /var/www/html/lfm/dev/api/system/core/CodeIgniter.php 411
+ERROR - 2020-12-10 08:02:07 --> Severity: Notice --> Array to string conversion /var/www/html/lfm/dev/api/application/controllers/Control_budget.php 118
+ERROR - 2020-12-10 08:02:07 --> Query error: Unknown column 'ArrayArray' in 'field list' - Invalid query: INSERT INTO `ref_psn_name` (`ArrayArray`) VALUES ('')
+ERROR - 2020-12-10 15:09:05 --> Severity: Notice --> Undefined index: id /var/www/html/lfm/dev/api/application/models/Psn_model.php 33
+ERROR - 2020-12-10 15:09:10 --> Severity: Notice --> Undefined index: id /var/www/html/lfm/dev/api/application/models/Psn_model.php 33
+ERROR - 2020-12-10 17:33:21 --> Severity: error --> Exception: Object of class Lman_security could not be converted to string /var/www/html/lfm/dev/api/application/models/Psn_model.php 44

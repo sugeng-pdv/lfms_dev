@@ -1,0 +1,46 @@
+RewriteEngine On
+
+# The RewriteBase / instruction is commented. Remove the "#" to uncomment
+# RewriteBase /
+
+# Memory Limit
+# php_value memory_limit 256M
+# php_value max_execution_time 18000
+
+# Disable Hotlinking
+# Replace "domain.tld" with your domain name
+# Don't forget to add a picture "thepic.gif" on your server 
+# RewriteCond %{HTTP_REFERER} !^http://(.+\.)?domain\.tld/ [NC]
+# RewriteCond %{HTTP_REFERER} !^$
+# Solution 1 : Displays another picture from an URL
+# RewriteRule .*\.(jpe?g|gif|bmp|png)$ http://www.domain.tld/thepic.gif [L]
+# Solution 2 : Displays a 403 forbidden
+# RewriteRule .*\.(jpe?g|gif|bmp|png)$ - [F]
+
+# Forces the "www"
+# RewriteCond %{HTTP_HOST} !^www\.yourdomain\.tld$ [NC]
+# RewriteRule ^(.*)$ http://www.yourdomain.tld/$1 [QSA,L,R=301]
+
+# Forces HTTPS/SSL
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+## Uncomment these lines to display the off.html page to other IP than the one bellow
+##RewriteCond %{REMOTE_ADDR} !^10.10.5.177$
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_URI} !/maintenance.php$ [NC]
+#RewriteCond %{REQUEST_URI} !/maintenance [OR]
+
+##RewriteRule ^(.*)$ https://www.lelangdjkn.kemenkeu.go.id/maintenance.php  [R=307,L]
+#RewriteRule ^(.*)$ http://lman.site/aset/api/maintenance.php  [R=307,L]
+
+# DO NOT MODIFY ANY FOLLOWING LINE
+
+# Keep these lines even in maintenance mode, to have an access to the website
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond $1 !^(index\.php|robots\.txt)
+RewriteRule ^(.*)$ index.php/$1
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(application|modules|plugins|system|themes) index.php/$1 [L]

@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-07 10:01:57 --> Severity: error --> Exception: Class 'SendGrid\Mail\Mail' not found /var/www/html/aset/api/application/controllers/Email.php 15
+ERROR - 2019-11-07 10:23:39 --> Query error: Duplicate entry 'branapandega@gmail.com' for key 'email' - Invalid query: INSERT INTO `employee` (`email`, `nip_npp`, `pwd`, `salt`, `version`, `name`) VALUES ('branapandega@gmail.com', '198709182008121003', '$2y$12$KUluEajvtWFzthOHWLi3UuAUkN.3JDimTlHXRoKG0HTKlBzMR5YEC', 'T6EY1vH7eCZrUbABkN9PsO8yFX3S4dnDz5wILJxluhG', '1', 'Brana Pandega')
+ERROR - 2019-11-07 10:24:28 --> Query error: Duplicate entry 'branapandega@gmail.com' for key 'email' - Invalid query: INSERT INTO `employee` (`email`, `nip_npp`, `pwd`, `salt`, `version`, `name`) VALUES ('branapandega@gmail.com', '198709182008121003', '$2y$12$BcSWGQW4E1lN.2kEXHGFzO0uNhudsba9WuZ29rI6TZAX5Gtt/y.Du', 'n7K40uXalHPVjT9qz5CeShdxBRWYZsOi3MGgJDt6Ab1rF8ycm', '1', 'Brana Pandega')

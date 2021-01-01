@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-08 02:11:44 --> 404 Page Not Found: Assets/detail_asset
+ERROR - 2019-08-08 02:11:52 --> 404 Page Not Found: Assets/detail_asset
+ERROR - 2019-08-08 02:12:04 --> 404 Page Not Found: Assets/detail_asset
+ERROR - 2019-08-08 02:12:15 --> 404 Page Not Found: Assets/index
+ERROR - 2019-08-08 09:06:41 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:07:33 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:09:38 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:09:52 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:09:54 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:11:30 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:11:48 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:12:31 --> 404 Page Not Found: Asset/get_assetimages
+ERROR - 2019-08-08 09:12:31 --> 404 Page Not Found: Asset/get_assetimages
+ERROR - 2019-08-08 09:12:31 --> 404 Page Not Found: Asset/get_assetimages
+ERROR - 2019-08-08 09:12:31 --> 404 Page Not Found: Asset/get_assetimages
+ERROR - 2019-08-08 09:12:31 --> 404 Page Not Found: Asset/get_assetimages
+ERROR - 2019-08-08 09:21:07 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:21:08 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:22:32 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:22:44 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:22:57 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:23:07 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 09:23:31 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 12:12:33 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 12:12:48 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 12:12:55 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 12:13:25 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 12:13:29 --> 404 Page Not Found: Asset/get_assetgetdata.php
+ERROR - 2019-08-08 12:13:38 --> 404 Page Not Found: Asset/get_assetgetdata.php

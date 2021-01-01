@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 125
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 126
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$amount_paid /var/www/html/aset/api/application/controllers/Payment.php 127
+ERROR - 2019-10-09 12:03:19 --> Severity: Notice --> Undefined property: stdClass::$due_date /var/www/html/aset/api/application/controllers/Payment.php 140
+ERROR - 2019-10-09 16:51:51 --> Severity: Notice --> Undefined variable: offset /var/www/html/aset/api/application/controllers/Payment.php 294
+ERROR - 2019-10-09 16:51:51 --> Severity: Notice --> Undefined variable: num_of_data /var/www/html/aset/api/application/controllers/Payment.php 317
+ERROR - 2019-10-09 16:51:51 --> Severity: Notice --> Undefined variable: num_of_page /var/www/html/aset/api/application/controllers/Payment.php 318
+ERROR - 2019-10-09 16:51:51 --> Severity: Notice --> Undefined variable: page /var/www/html/aset/api/application/controllers/Payment.php 319
+ERROR - 2019-10-09 16:52:27 --> Severity: Notice --> Undefined variable: num_of_data /var/www/html/aset/api/application/controllers/Payment.php 317
+ERROR - 2019-10-09 16:52:27 --> Severity: Notice --> Undefined variable: num_of_page /var/www/html/aset/api/application/controllers/Payment.php 318
+ERROR - 2019-10-09 16:52:27 --> Severity: Notice --> Undefined variable: page /var/www/html/aset/api/application/controllers/Payment.php 319
+ERROR - 2019-10-09 17:03:53 --> 404 Page Not Found: Invoice/check_invoice_number
+ERROR - 2019-10-09 17:07:52 --> Severity: Notice --> Undefined property: stdClass::$asset_id /var/www/html/aset/api/application/controllers/Payment.php 409
+ERROR - 2019-10-09 17:07:52 --> Severity: Notice --> Undefined property: stdClass::$tenant_id /var/www/html/aset/api/application/controllers/Payment.php 412
+ERROR - 2019-10-09 17:07:52 --> Severity: Notice --> Undefined property: stdClass::$asset_id /var/www/html/aset/api/application/controllers/Payment.php 409
+ERROR - 2019-10-09 17:07:52 --> Severity: Notice --> Undefined property: stdClass::$tenant_id /var/www/html/aset/api/application/controllers/Payment.php 412
+ERROR - 2019-10-09 17:07:52 --> Severity: Notice --> Undefined property: stdClass::$asset_id /var/www/html/aset/api/application/controllers/Payment.php 409
+ERROR - 2019-10-09 17:07:52 --> Severity: Notice --> Undefined property: stdClass::$tenant_id /var/www/html/aset/api/application/controllers/Payment.php 412
+ERROR - 2019-10-09 17:09:51 --> Severity: Notice --> Undefined property: stdClass::$tenant_id /var/www/html/aset/api/application/controllers/Payment.php 412
+ERROR - 2019-10-09 17:09:51 --> Severity: Notice --> Undefined property: stdClass::$tenant_id /var/www/html/aset/api/application/controllers/Payment.php 412
+ERROR - 2019-10-09 17:09:51 --> Severity: Notice --> Undefined property: stdClass::$tenant_id /var/www/html/aset/api/application/controllers/Payment.php 412
+ERROR - 2019-10-09 17:27:41 --> 404 Page Not Found: Payment/payment_detail
+ERROR - 2019-10-09 17:29:33 --> Severity: Notice --> Undefined property: stdClass::$billed_amount /var/www/html/aset/api/application/controllers/Payment.php 470
