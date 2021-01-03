@@ -1,4 +1,4 @@
-var backend_url     = window.location.origin+"/lfm/dev/";
+// var backend_url     = window.location.origin+"/lfm/dev/";
 $(document).ready(function(){
     loadDataTable();
 });

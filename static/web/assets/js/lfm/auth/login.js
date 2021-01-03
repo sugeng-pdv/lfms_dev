@@ -1,4 +1,4 @@
-var backend_url     = window.location.origin+"/lfm/dev/";
+// var backend_url     = window.location.origin+"/lfm/dev/";
 var dataUrl = 'Home';
 $(document).ready(function() {
     // get_data_container_body(dataUrl);
