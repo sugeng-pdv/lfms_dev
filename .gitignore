@@ -23,6 +23,8 @@ application/config/database.php
 application/config/lman_config.php
 static/web/assets/js/global1.js
 
+
+
 #backend api
 api/.htaccess
 api/application/config/database.php
