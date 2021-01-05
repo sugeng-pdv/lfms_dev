@@ -26,4 +26,3 @@ static/web/assets/js/global1.js
 #backend api
 api/.htaccess
 api/application/config/database.php
-
